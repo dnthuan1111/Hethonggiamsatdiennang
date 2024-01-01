@@ -28,7 +28,7 @@ function Login() {
 
   return (
     <div className="full-screen-background">
-      <h1 className="main-title">MÔ HÌNH GIÁM SÁT ĐIỆN NĂNG</h1>
+      <h1 className="main-title">HỆ THỐNG GIÁM SÁT ĐIỆN NĂNG LƯỢNG MẶT TRỜI</h1>
       <div className="login-container">
         <h2>Đăng nhập</h2>
         <form onSubmit={handleLogin}>
